@@ -1,0 +1,83 @@
+23-Nov
+
+Deploying Node.js applications to hosting platforms like Render cloud, exercises on Node.js with MongoDB application
+
+https://collegeedge.udemy.com/course/deploymentdeployment/learn/lecture/47113923/?instructorPreviewMode=student_v4#overview
+
+22-Nov
+
+Implementing authentication and authorization with Passport, Introduction to JSON Web Tokens (JWT) and token-based authentication
+
+https://collegeedge.udemy.com/course/securityandauthentication/learn/lecture/47113877/?instructorPreviewMode=student_v4#overview
+
+20-Nov
+
+Debugging with Node Inspector, Using logging and debugging tools: Winston, Integrating Winston for logging
+
+https://collegeedge.udemy.com/course/errorhandlinganddebugging/learn/lecture/47113871/?instructorPreviewMode=student_v4#overview
+
+18-Nov
+
+CRUD operations on MongoDB with Mongoose schema in Node.js
+
+https://collegeedge.udemy.com/course/mongoosemongodbmongoose/learn/lecture/46978933/?instructorPreviewMode=student_v4#overview
+
+16-Nov
+
+Creating schema through Mongoose for the MongoDB, retrieving the data from Mongo database.
+
+https://collegeedge.udemy.com/course/mongoosemongodbmongoosemongodb/learn/lecture/46978919/?instructorPreviewMode=student_v4#overview
+
+15-Nov
+
+Uploading and downloading of files using multer
+
+https://collegeedge.udemy.com/course/filesystemandstreamsfilesystemandstreams/learn/lecture/46978859/?instructorPreviewMode=student_v4#overview
+
+6-Nov
+
+Working with file system module, Reading and writing files synchronously and asynchronously, working with directories and file paths. 
+
+https://collegeedge.udemy.com/course/filesystemandstreams/learn/lecture/46845505/?instructorPreviewMode=student_v4#overview
+
+4-Nov
+
+Express js with MySQL connectivity: insert, update, delete, retrieve operations
+
+https://collegeedge.udemy.com/course/expressjsexpressjsexpressjsexpressjs/learn/lecture/46845471/?instructorPreviewMode=student_v4#overview
+
+26-Oct
+
+Express js CRUD operations on static data , and working with MySQL database.
+
+https://collegeedge.udemy.com/course/expressjs1expressjs1/learn/lecture/46565809/?instructorPreviewMode=student_v4#overview
+
+23-Oct
+
+Introduction to Express js, features and advantages compared to Node.js, connecting to server, getting responses back: using different method types: get,put,update,delete explained with hands-on.
+
+https://collegeedge.udemy.com/course/expressjsexpressjs/learn/lecture/46506137/?instructorPreviewMode=student_v4#overview
+
+21-Oct
+
+Working with Events: addlistener, remove listener, introduction to promises, chaining promises, Async and Await functions explaination with examples
+
+https://collegeedge.udemy.com/course/eventspromisesasyncandawait/learn/lecture/46487065/?instructorPreviewMode=student_v4#overview
+
+19-Oct
+
+Working with callbacks and event-driven architecture, EventEmitter and handling events.
+
+https://collegeedge.udemy.com/course/callbacksandevents/learn/lecture/46487035/?instructorPreviewMode=student_v4#overview
+
+18-Oct
+
+Understanding asynchronous programming. Synchronous vs. Asynchronous code execution, event loop and non-blocking I/O
+
+https://collegeedge.udemy.com/course/asynchronousprogramminginnodejs/learn/lecture/46487017/?instructorPreviewMode=student_v4#overview
+
+16-Oct
+
+Features of Nodejs, difference b/w Nodejs and javascript, Installation of Nodejs, variables, objects and functions and Modules explained with hands-on.
+
+https://collegeedge.udemy.com/course/introductiontonodejs/learn/lecture/46378111/?instructorPreviewMode=student_v4#overview 
